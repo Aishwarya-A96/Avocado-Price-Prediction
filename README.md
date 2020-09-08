@@ -1,4 +1,4 @@
-#Avocado-Price-Prediction
+# Avocado-Price-Prediction
 Avocado Price is predicted among all regions of United States using Facebook Prophet dataset prepared by datascience team. Facebook Prophet dataset is an opensource software.
 This dataset contains 18249 rows and 14 columns.
 I checked correlation existed among several columns and found averageprice and date column is required for further analysis using heatmap.
